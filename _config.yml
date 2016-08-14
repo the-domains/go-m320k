@@ -1,0 +1,14 @@
+layout_spectrum: 0.5821809326298535
+typography_spectrum: 0.6922963645774871
+color:
+  brandStrength: 0.1715758794452995
+  lightness: 0.594402983551845
+  saturation: 0.914566406281665
+  rhythmicContrast: 0.7892269985750318
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: GO
