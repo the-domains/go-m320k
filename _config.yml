@@ -6,9 +6,9 @@ color:
   saturation: 0.914566406281665
   rhythmicContrast: 0.7892269985750318
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: GO
